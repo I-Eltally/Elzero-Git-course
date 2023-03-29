@@ -3,6 +3,10 @@ Elzero https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF
 
 VIP URL for learning Git: https://www.nobledesktop.com/learn/git
 
+https://www.hackerrank.com/skills-verification/python_basic
+
+https://www.techworld-with-nana.com/devops-bootcamp
+
 <h1> 2nd Video</h1>
 show to us what is the mark down https://en.wikipedia.org/wiki/Markdown and why we use to modify  the readme file 
 The read me file has extension .md
@@ -17,7 +21,8 @@ The read me file has extension .md
 
 #Changes to be committed:
 
-  (use "<h3>git restore --staged <file>...</h3>" to unstage)
+To unstage use:
+  <h3>git restore --staged <file>...</h3>
   
         new file:   ex: 1stPyhton/SyVaTyConcat.py
 
