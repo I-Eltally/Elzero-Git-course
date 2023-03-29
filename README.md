@@ -20,15 +20,13 @@ The read me file has extension .md
 <h1> 4th Video</h1>
 
 #Changes to be committed:
-
-To unstage use:
-  <h3>git restore --staged <file>...</h3>
-  
+  (use "git restore --staged <file>..." to unstage)
         new file:   ex: 1stPyhton/SyVaTyConcat.py
 
 #Untracked files:
-  
-  (use "<h3>git add <file>...</h3>" to include in what will be committed)
+  (use "git add <file>..." to include in what will be committed)
+
+git commit -m "comment"
 
 <h1> 5th Video</h1>
   
