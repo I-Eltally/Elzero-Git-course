@@ -15,3 +15,14 @@ The read me file has extension .md
 #Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
+git commit -m "comment"
+
+To see local branches, run this command:
+git branch
+To see remote branches, run this command:
+git branch -r
+To see all local and remote branches, run this command:
+git branch -a
+
+git push RemoteName BranchName
+git push origin main
