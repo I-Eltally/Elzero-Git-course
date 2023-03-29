@@ -9,7 +9,7 @@ The read me file has extension .md
 
 <h1> 3rd Video</h1>
 
-#git clone Repo-Url fromm github
+<h3>git clone Repo-Url-from-github<h3>
 
 #git status ==> to check the status for all the files on your local repo 
 
@@ -17,17 +17,17 @@ The read me file has extension .md
 
 #Changes to be committed:
 
-  (use "git restore --staged <file>..." to unstage)
+  (use "<h3>git restore --staged <file>...</h3>" to unstage)
   
         new file:   ex: 1stPyhton/SyVaTyConcat.py
 
 #Untracked files:
   
-  (use "git add <file>..." to include in what will be committed)
+  (use "<h3>git add <file>...</h3>" to include in what will be committed)
 
 <h1> 5th Video</h1>
   
-git commit -m "comment"
+<h3>git commit -m "comment"</h3>
   
 To see local branches, run this command:
   
