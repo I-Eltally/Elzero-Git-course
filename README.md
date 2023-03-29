@@ -38,3 +38,7 @@ git branch -r
 To see all local and remote branches, run this command:
   
 git branch -a
+
+  git push RemoteName BranchName
+  
+git push origin main
