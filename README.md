@@ -1,6 +1,8 @@
 # Elzero-Git-course
 Elzero https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF
 
+VIP URL for learning Git: https://www.nobledesktop.com/learn/git
+
 <h1> 2nd Video</h1>
 show to us what is the mark down https://en.wikipedia.org/wiki/Markdown and why we use to modify  the readme file 
 The read me file has extension .md
@@ -29,16 +31,19 @@ git commit -m "comment"
   
 To see local branches, run this command:
   
-git branch
+<h3>git branch</h3>
   
 To see remote branches, run this command:
   
-git branch -r
+<h3>git branch -r</h3>
   
 To see all local and remote branches, run this command:
   
-git branch -a
+<h3>git branch -a</h3>
 
-  git push RemoteName BranchName
+<h3>git push RemoteName BranchName</h3>
   
 git push origin main
+  
+
+  
