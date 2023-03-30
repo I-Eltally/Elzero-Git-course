@@ -49,9 +49,15 @@ To see all local and remote branches, run this command:
 git push origin main
   
   <h1>Video 6</h1>
+  
+  https://stackoverflow.com/questions/15745045/how-do-i-resolve-git-saying-commit-your-changes-or-stash-them-before-you-can-me
+
   Create another github account
+
   Add this one as contributer to my repository
+  
   Use pull command which will make fetch then merge
+  
   git pull remoteRepoName
 
   
