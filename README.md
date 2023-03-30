@@ -20,7 +20,7 @@ The read me file has extension .md
 <h1> 4th Video</h1>
 
 #Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
+  (use "git restore --staged file..." to unstage)
         new file:   ex: 1stPyhton/SyVaTyConcat.py
 
 #Untracked files:
