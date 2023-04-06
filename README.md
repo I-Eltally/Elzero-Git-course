@@ -49,7 +49,7 @@ To see all local and remote branches, run this command:
 git push origin main
   
   <h1>Video 6</h1>
-  
+
   https://stackoverflow.com/questions/15745045/how-do-i-resolve-git-saying-commit-your-changes-or-stash-them-before-you-can-me
 
   Create another github account
@@ -60,4 +60,23 @@ git push origin main
   
   git pull remoteRepoName
 
-  
+  <h1>Video 7</h1>
+
+<h2>git config -l   ==>   list all configuration for git</h2>
+
+git hlep config    ==>  list all configuration about git
+
+git config -l --show-origin   ==> list all configuration about git with the path of it.
+
+git can have doublicated values in the configuration as It retrive configuration from different locations.
+
+git config --global user.email to retrive specific configuration value.
+
+git config --global user.email "i@gmail.com" to set specific configuration value.
+
+git config --global --edit
+
+<h1>Video 8</h2>
+
+ssh-keygen -t rsa  -b 4096 -c "islam.eltally@gmail.com"
+
