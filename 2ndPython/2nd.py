@@ -99,9 +99,11 @@
 
 # replace, join
 
-treplcae = "Numbers in order are one, two, one, three, four, five, six, seven"
-print(treplcae.replace('one', '1'))
-print(treplcae.replace('one', '1', 1))
+# treplcae = "Numbers in order are one, two, one, three, four, five, six, seven"
+# print(treplcae.replace('one', '1'))
+# print(treplcae.replace('one', '1', 1))
 
-tJoin = ['Islam', 'Gamal', 'Muhammed', 'Eltally']
-print("-".join(tJoin))
+# tJoin = ['Islam', 'Gamal', 'Muhammed', 'Eltally']
+# print("-".join(tJoin))
+
+#

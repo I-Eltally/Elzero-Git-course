@@ -33,3 +33,5 @@ a, b, c = 10, 20, 30
 # print("The message to be printed {1:d},{0:d},{2:d} ".format(a, b, c))
 print(f"The message to be printed {x}, {y}, {z}")  # f ==> format operator
 print(f"The message to be printed {a}, {c}, {b}")  # f ==> format operator
+
+# http://pyformat.info/
